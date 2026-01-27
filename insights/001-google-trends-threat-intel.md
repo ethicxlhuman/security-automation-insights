@@ -1,0 +1,1 @@
+Security teams waste hours manually checking Google Trends for emerging threats, malware campaigns, and vulnerability trends. This automation continuously monitors and visualizes search patterns for CVEs, ransomware families, and attack signatures—turning trend data into actionable threat intelligence.
