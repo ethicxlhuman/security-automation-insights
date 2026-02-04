@@ -50,9 +50,6 @@ Mid-market cybersecurity companies ($1M-50M revenue):
 4. Embed floating button on website
 5. Connect calendar API for instant scheduling
 
-<img width="274" height="477" alt="image" src="https://github.com/user-attachments/assets/627fb70c-e62b-4d74-b9ee-82551b4e0494" />
-<img width="1091" height="697" alt="image" src="https://github.com/user-attachments/assets/b1e25b3e-2984-4021-9723-ce0a7274cba4" />
-<img width="1437" height="543" alt="image" src="https://github.com/user-attachments/assets/b68dab71-e750-4843-9de5-d65f20a1d373" />
-
+https://github.com/user-attachments/assets/1b7b414e-9996-43f6-bfc5-59ee8eefc57e
 
 Built by Kunsh Tanwar | Founder of ETXcyberops | Contact: kunsh@etxhuman.com
