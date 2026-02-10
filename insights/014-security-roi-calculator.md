@@ -114,6 +114,7 @@ Dynamic slider-based calculator showing real-time savings:
 
 
 https://github.com/user-attachments/assets/24332b45-fd3b-41d0-9686-f844f7c3fea5
+
 <img width="1275" height="595" alt="image" src="https://github.com/user-attachments/assets/244b5146-629c-4474-9267-4a4294753f75" />
 
 **Built by Kunsh Tanwar | Founder of ETXcyberops**  
