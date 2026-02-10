@@ -1,6 +1,6 @@
 # Security ROI Calculator with Dynamic Sliders
 
-**Prototype:** https://location-aware-cyber-g2rb.bolt.host/roi-calculator
+**Prototype:** https://ai-website-cybersecurity-company.vercel.app/roi-calculator
 
 Interactive calculator that shows prospects real-time cost savings for cybersecurity subscriptions, managed services, or compliance automation—eliminating manual ROI spreadsheets during sales cycles.
 
