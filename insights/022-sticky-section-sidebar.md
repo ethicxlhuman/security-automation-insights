@@ -43,5 +43,9 @@ Security founders and marketing leads at MDR, GRC, and Cloud Security firms who 
 - Zero performance overhead — pure CSS/JS, no external dependencies
 
 
+https://github.com/user-attachments/assets/2cb61b37-2fb9-47dd-9422-98fe7961acbc
+
+<img width="1590" height="533" alt="image" src="https://github.com/user-attachments/assets/093aa6cb-01a9-48de-8cba-11ffe4117ffa" />
+
 
 Built by Kunsh Tanwar | Founder of ETXcyberops | kunsh@etxhuman.com
