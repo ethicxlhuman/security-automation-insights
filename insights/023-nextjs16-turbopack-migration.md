@@ -32,5 +32,8 @@ Migrate to Next.js 16 with Turbopack as the default bundler — no extra config 
 
 ---
 
+<img width="764" height="645" alt="image" src="https://github.com/user-attachments/assets/24e23e04-2916-4616-aaa0-82ce03b54b0d" />
+<img width="1175" height="445" alt="image" src="https://github.com/user-attachments/assets/5e36e8cf-9c41-485e-a436-f8e548c9b756" />
+
 
 Kunsh Tanwar | Founder of ETXcyberops | kunsh@etxhuman.com
