@@ -1,4 +1,4 @@
-# AI Social Media Pipeline — Imagen + Meta Graph API
+# AI Social Media Pipeline - Imagen + Meta Graph API
 
 Automated pipeline that takes an AI-generated cybersecurity image from Supabase, writes platform-specific captions via two AI agents, and posts to Facebook and Instagram using the Meta Graph API.
 
@@ -25,5 +25,8 @@ MDR founders, GRC consultants, security company operators running lean marketing
 
 ## Impact
 Eliminates 1-2 hours daily of manual social posting. Fully automated end to end.
+
+<img width="1161" height="708" alt="image" src="https://github.com/user-attachments/assets/0482097e-5588-4305-a497-85f886642a25" />
+<img width="1493" height="275" alt="brave_screenshot_etxn8n etxhuman com" src="https://github.com/user-attachments/assets/e53d5328-afa1-4ffa-8999-c390686a2488" />
 
 Built by Kunsh Tanwar | ETXcyberops | kunsh@etxhuman.com
