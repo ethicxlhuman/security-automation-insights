@@ -1,4 +1,4 @@
-# Infinite Case Study Marquee — Security Website Component
+# Infinite Case Study Marquee
 
 Prototype: https://ai-website-cybersecurity-company.vercel.app/
 
