@@ -23,20 +23,9 @@ A horizontal infinite marquee on the Case Studies page that:
 - Pauses when a prospect hovers to read details
 - Loops forever with no manual input
 
-## Key Features
-- `pauseOnHover` — stops scroll when user engages
-- Dual-row layout (forward + reverse) for visual depth
-- Edge fade gradients for clean entry/exit
-- Unsplash images matched to each industry vertical
 
-## Tech Stack
-- Magic UI Marquee component
-- Next.js + Tailwind CSS
-- Unsplash API (free, high-quality imagery)
-- Bolt.new (rapid deployment)
+https://github.com/user-attachments/assets/3d4c14a9-cd0e-441a-935b-c28177cbf880
 
-## Target Audience
-Security founders, MDR providers, GRC consultants — anyone selling
-B2B cybersecurity services who needs social proof front and center.
+<img width="1575" height="702" alt="brave_screenshot_ai-website-cybersecurity-company vercel app" src="https://github.com/user-attachments/assets/f819e48c-0df1-40fc-885e-20b30a139053" />
 
 Built by Kunsh Tanwar | Founder of ETXcyberops | kunsh@etxhuman.com
