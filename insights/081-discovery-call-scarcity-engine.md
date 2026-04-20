@@ -57,4 +57,6 @@ Timer loop updates the UI every second. Slots decrement on CTA click and persist
 
 ---
 
+[▶ Watch: 2026-04-17 21-28-32.mp4](https://dolpjhqzwsxbllsoqfnk.supabase.co/storage/v1/object/public/insight-attachments/insights/discovery-call-scarcity-engine/2026-04-21%2002-30-14.mp4)
+
 Built by Kunsh Tanwar | ETXcyberops | kunsh@etxhuman.com
