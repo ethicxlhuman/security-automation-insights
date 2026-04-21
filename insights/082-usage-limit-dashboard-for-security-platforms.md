@@ -47,5 +47,6 @@ Display privileged session recording hours, SSO seat utilization, and just-in-ti
 - Reduces churn tied to limit-hit frustration by surfacing friction before it occurs
 
 ---
+<img width="1369" height="394" alt="Screenshot 2026-04-21 231933" src="https://github.com/user-attachments/assets/047d8532-c990-4f44-9a29-a1d5d8bcbf84" />
 
 Built by Kunsh Tanwar | ETXcyberops | kunsh@etxhuman.com
