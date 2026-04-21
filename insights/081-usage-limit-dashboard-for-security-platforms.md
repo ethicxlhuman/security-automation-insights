@@ -48,4 +48,6 @@ Display privileged session recording hours, SSO seat utilization, and just-in-ti
 
 ---
 
+<img width="1369" height="394" alt="Screenshot 2026-04-21 231933" src="https://github.com/user-attachments/assets/cd84315a-316d-4f7d-ba41-e5c93c74dcaa" />
+
 Built by Kunsh Tanwar | ETXcyberops | kunsh@etxhuman.com
